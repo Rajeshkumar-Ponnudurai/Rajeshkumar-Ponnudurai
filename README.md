@@ -1,6 +1,6 @@
-Rajeshkumar-Ponnudurai# 👋 Hi, I'm Rajesh
+# 👋 Hi, I'm Rajesh
 
-🎓 I'm currently pursuing **B.Tech in Information Technology** at Dr. Mahalingam College of Engineering and Technology, Pollachi.
+🎓 I'm pursuing **B.Tech in Information Technology** at Dr. Mahalingam College of Engineering and Technology, Pollachi.
 
 💻 I'm passionate about building full-stack web applications. I’m currently focusing on **Frontend (React.js)** and learning **Java** for backend development.
 
@@ -9,7 +9,7 @@ Rajeshkumar-Ponnudurai# 👋 Hi, I'm Rajesh
 ## 🚀 Tech Stack
 - 🌐 Frontend: HTML, CSS, JavaScript, React.js
 - 🛠️ Backend: Java (Core), APIs (learning)
-- 🔧 Tools: Git, GitHub, VS Code, Figma
+- 🔧 Tools: Git, GitHub, VS Code
 
 ---
 
@@ -33,9 +33,9 @@ Rajeshkumar-Ponnudurai# 👋 Hi, I'm Rajesh
 ---
 
 ## 📫 Connect with me
-- ✉️ Email: your.email@example.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
+- ✉️ Email: rajeshkumarponnudurai@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/rajeshkumar-ponnudurai-rajesh/)
+- 🌐 [Portfolio](https://rajeshkumar-ponnudurai.github.io/Portfolio/)
 
 ---
 
