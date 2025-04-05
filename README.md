@@ -1,16 +1,42 @@
-## Hi there 👋
+Rajeshkumar-Ponnudurai# 👋 Hi, I'm Rajesh
 
-<!--
-**Rajeshkumar-Ponnudurai/Rajeshkumar-Ponnudurai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently pursuing **B.Tech in Information Technology** at Dr. Mahalingam College of Engineering and Technology, Pollachi.
 
-Here are some ideas to get you started:
+💻 I'm passionate about building full-stack web applications. I’m currently focusing on **Frontend (React.js)** and learning **Java** for backend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+- 🌐 Frontend: HTML, CSS, JavaScript, React.js
+- 🛠️ Backend: Java (Core), APIs (learning)
+- 🔧 Tools: Git, GitHub, VS Code, Figma
+
+---
+
+## 🌱 Currently Learning
+- React.js (Advanced)
+- Java Backend with APIs
+- UI/UX Design
+
+---
+
+## 🧠 Projects
+- 🐄 **DairyGreens** – A web platform helping local farmers sell products directly to nearby customers, reducing brokerage and increasing profits.
+
+---
+
+## 📊 GitHub Stats
+
+![Rajesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with me
+- ✉️ Email: your.email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 🌐 [Portfolio](https://your-portfolio-link.com)
+
+---
+
+Thanks for stopping by! 😊
