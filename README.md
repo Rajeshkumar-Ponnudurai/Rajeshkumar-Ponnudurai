@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Rajesh
 
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=Rajeshkumar-Ponnudurai&label=Profile%20views&color=0e75b6&style=flat" alt="Rajeshkumar P" />
+</p>
+
 🎓 I'm pursuing **B.Tech in Information Technology** at Dr. Mahalingam College of Engineering and Technology, Pollachi.
 
 💻 I'm passionate about building full-stack web applications. I’m currently focusing on **Frontend (React.js)** and learning **Java** for backend development.
@@ -27,8 +31,8 @@
 
 ## 📊 GitHub Stats
 
-![Rajesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Rajesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajeshkumar-Ponnudurai&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeshkumar-Ponnudurai&layout=compact&theme=radical)
 
 ---
 
