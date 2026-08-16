@@ -18,11 +18,11 @@
   <tr>
     <td width="60%">
       <ul>
-        <li>🔭 I’m currently building metric-driven management applications & cloud systems.</li>
-        <li>💼 Software Engineer with experience across Full-Stack Architecture, Cloud Deployment, and LLMOps.</li>
-        <li>🌱 Continuously exploring <b>Agentic AI Workflows, Cloud Infrastructure, and Microservices</b>.</li>
-        <li>💬 Ask me about <b>Java, Spring Boot, React, Node.js, and System Architecture</b>.</li>
-        <li>⚡ Fun fact: Passionate about custom UI crafting and performance optimization.</li>
+      <li>🔭 I’m currently developing enterprise web applications, LLM data extraction pipelines, and real-time management dashboards[cite: 1].</li>
+      <li>💼 Software Developer experienced in <b>React, TypeScript, Azure, Linux administration, and RESTful APIs</b>[cite: 1].</li>
+      <li>🌱 Continuously exploring <b>Microsoft Azure Cloud Architecture, DevOps practices, and LLM Prompt Engineering</b>[cite: 1].</li>
+      <li>💬 Ask me about <b>Core Java, React.js, Redux, Material UI, MySQL, MongoDB, and Linux CLI</b>[cite: 1].</li>
+      <li>⚡ Fun fact: Passionate about Linux environments, prompt engineering schemas, and building clean, responsive user interfaces[cite: 1].</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -37,19 +37,19 @@
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,ts,js,python,html,css" alt="Languages" />
 </p>
 <p align="center">
-  <!-- Frameworks & Libraries -->
-  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,tailwind" alt="Frameworks" />
+  <!-- Frameworks & Frontend/State -->
+  <img src="https://skillicons.dev/icons?i=react,redux,materialui" alt="Frameworks and UI" />
 </p>
 <p align="center">
-  <!-- Databases & Cloud / DevOps -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,azure,ubuntu,bash" alt="Databases and Cloud" />
+  <!-- Databases & Cloud / OS -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,azure,linux,bash" alt="Databases, Cloud and OS" />
 </p>
 <p align="center">
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" alt="Tools" />
+  <!-- Tools & Version Control -->
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Tools" />
 </p>
 
 ---
@@ -58,15 +58,15 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rajeshkumar's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajeshkumar-Ponnudurai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rajeshkumar's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeshkumar-Ponnudurai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajeshkumar-Ponnudurai&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
 </div>
 
 ---
@@ -75,15 +75,15 @@
 
 <div align="center">
 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/rajeshkumarponnudurai/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL_ADDRESS" target="_blank">
+  <a href="mailto:rajeshkumarponnudurai@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/Rajeshkumar-Ponnudurai" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
@@ -92,5 +92,5 @@
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=22c55e" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Rajeshkumar-Ponnudurai&style=flat-square&color=22c55e" alt="Profile Views" />
 </div>
