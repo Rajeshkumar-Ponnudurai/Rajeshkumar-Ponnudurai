@@ -18,11 +18,11 @@
   <tr>
     <td width="60%">
       <ul>
-      <li>🔭 I’m currently developing enterprise web applications, LLM data extraction pipelines, and real-time management dashboards[cite: 1].</li>
-      <li>💼 Software Developer experienced in <b>React, TypeScript, Azure, Linux administration, and RESTful APIs</b>[cite: 1].</li>
-      <li>🌱 Continuously exploring <b>Microsoft Azure Cloud Architecture, DevOps practices, and LLM Prompt Engineering</b>[cite: 1].</li>
-      <li>💬 Ask me about <b>Core Java, React.js, Redux, Material UI, MySQL, MongoDB, and Linux CLI</b>[cite: 1].</li>
-      <li>⚡ Fun fact: Passionate about Linux environments, prompt engineering schemas, and building clean, responsive user interfaces[cite: 1].</li>
+      <li>🔭 I’m currently developing enterprise web applications, LLM data extraction pipelines, and real-time management dashboards.</li>
+      <li>💼 Software Developer experienced in <b>React, TypeScript, Azure, Linux administration, and RESTful APIs</b>.</li>
+      <li>🌱 Continuously exploring <b>Microsoft Azure Cloud Architecture, DevOps practices, and LLM Prompt Engineering</b>.</li>
+      <li>💬 Ask me about <b>Core Java, React.js, Redux, Material UI, MySQL, MongoDB, and Linux CLI</b>.</li>
+      <li>⚡ Fun fact: Passionate about Linux environments, prompt engineering schemas, and building clean, responsive user interfaces.</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -58,8 +58,8 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajeshkumar-Ponnudurai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rajeshkumar's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeshkumar-Ponnudurai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-extended.vercel.app/api?username=Rajeshkumar-Ponnudurai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rajeshkumar's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=Rajeshkumar-Ponnudurai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 
 </div>
 
